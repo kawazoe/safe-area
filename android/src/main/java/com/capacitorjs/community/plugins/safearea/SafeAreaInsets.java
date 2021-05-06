@@ -1,4 +1,4 @@
-package com.capacitorjs.community.plugins.safearea;
+package com.getcapacitor.community.plugins.safearea;
 
 import com.getcapacitor.JSObject;
 
